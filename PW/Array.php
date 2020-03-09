@@ -17,5 +17,6 @@
 	);
 	var_dump($colors_codes);
 	?>
+	
 </body>
 </html>
